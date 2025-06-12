@@ -1,0 +1,14 @@
+.info-link {
+    color: white;
+    background-color: #081b31;
+    padding: 0.7rem 1.5rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+}
+
+.info-link:hover {
+    background-color: #144272;
+}
